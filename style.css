@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/**/
+body{
+    background: black;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 100vh; /*To change the line height and then making it go to the center of the screen.*/
+}
+
+/*---------------class created in JavaScript--------------*/
+span{
+                                        
+    transition: all 0.5s ease;
+   
+}
+
+span.fade{
+    color: #45c725;
+    
+}
+
+/*span{
+    opacity: 0;                                      
+    transition: all 0.5s ease;
+    transform: translateY(50px);       To make cool effect
+    display: inline-block;                          
+}
+*/
+/*span.fade{
+    color: rgb(104, 197, 104);
+    opacity: 1;                                   
+    transform: translateY(0px);      To make cool effect
+}
+*/
+/*span{
+    opacity: 0;                                      
+    transition: all 0.5s ease;
+    transform: translateY(50px);       To make cool effect
+                         
+}
+*/
+/*span.fade{
+    color: rgb(104, 197, 104);
+    opacity: 1;                                   
+    transform: translateY(0px);      To make cool effect
+}
+*/
